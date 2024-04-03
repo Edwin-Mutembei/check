@@ -1,3 +1,12 @@
+# question
+"""
+User Input: ask the user to input a word, and pass that word into a function
+that checks if the word starts with an uppercase. If it does output “True”,
+otherwise “False”
+
+"""
+#  answer
+
 word = input('Kindly writte a word: ')
 try:
     def upperCaseTest():
